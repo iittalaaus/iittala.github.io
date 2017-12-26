@@ -2,4 +2,4 @@
 
 ### Niva
 
-![Niva On The Rocks Glass - Whiskey Tumbler](images\NivaTumbler.jpg)
+![Niva On The Rocks Glass - Whiskey Tumbler](NivaTumbler.jpg)
