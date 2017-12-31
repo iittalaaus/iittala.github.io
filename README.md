@@ -2,7 +2,7 @@
 
 ### Niva
 
-![Niva Drinkware Range](NivaDrinkwareRanges.jpg)
+![Niva Drinkware Range](NivaDrinkwareRange.jpg)
 
 #### On The Rocks Glasses
 
