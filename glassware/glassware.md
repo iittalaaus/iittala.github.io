@@ -4,7 +4,7 @@
 ### Aarne beer 38 cl
 
 
-![Aarne beer 38 cl](glassware/Aarne beer 38 cl  2 pcs.jpg)
+![Aarne beer 38 cl](Aarne beer 38 cl  2 pcs.jpg)
 ### Aarne champagne 18 cl
 
 
